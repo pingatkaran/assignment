@@ -23,6 +23,11 @@ git clone https://github.com/pingatkaran/assignment.git
 - viewModel - contains the viewmodel followed with repository
 - utility  - utility classes, extensions, constants and listeners.
 
+## App Architecture 
+
+![alt text](https://github.com/pingatkaran/assignment/blob/main/VWoUa.png)
+
+
 
 ## Build variants
 
