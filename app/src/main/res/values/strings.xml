@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">assignment</string>
+
+    <string name="text_air_quality">Air quality is %1$s</string>
+</resources>
